@@ -6,6 +6,7 @@
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Authors>binger</Authors>
     <Company>binger</Company>
+    <PackageProjectUrl>https://github.com/liubin3071/UnixTimestamp.NetStandard</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
